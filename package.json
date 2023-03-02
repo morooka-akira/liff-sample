@@ -18,7 +18,7 @@
     "@headlessui/react": "^1.7.10",
     "@heroicons/react": "^2.0.13",
     "@tailwindcss/line-clamp": "^0.4.2",
-    "@types/node": "18.11.9",
+    "@types/node": "18.14.4",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "anchorme": "^2.1.2",
